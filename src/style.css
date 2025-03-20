@@ -1,0 +1,12 @@
+
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  src: url("./Nunito-VariableFont_wght.ttf");
+}
+
+.hello {
+  color: red;
+  font-family: 'Nunito';
+  background: url('./icon.png');
+}
